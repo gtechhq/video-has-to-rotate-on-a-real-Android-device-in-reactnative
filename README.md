@@ -1,4 +1,6 @@
 # video-has-to-rotate-on-a-real-Android-device-in-reactnative
+
+A GUIDE ON HOW TO MAKE A VIDEO ROTATE ON REAL ANDROID  STEP BY STEP
 To create a new Expo project and work on a task that involves rotating a video on a real Android device, you can follow these steps:
 
 Make sure you have Node.js installed on your machine. 
