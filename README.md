@@ -26,6 +26,8 @@ For this example, we'll use expo-av for video handling and react-native-orientat
 
 Code Implementation
 
+Replace 'YOUR_VIDEO_URL_HERE' with the actual URL or local path of your video.
+
 Run the App 
 
 expo start
