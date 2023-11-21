@@ -23,5 +23,13 @@ For this example, we'll use expo-av for video handling and react-native-orientat
 
 Code Implementation
 
+Run the App 
 
-Replace the contents of App.js with the following code:
+expo start
+
+Test Rotation
+
+As the app starts, it should lock the device orientation to landscape. Test the rotation by physically rotating your Android device. The video should adapt to the landscape orientation.
+
+Make sure to replace the video URL and customize the code according to your specific requirements. Additionally, you may want to handle orientation changes in a more dynamic way depending on your use case.
+ 
